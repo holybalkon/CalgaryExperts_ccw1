@@ -1,0 +1,18 @@
+# CalgaryExperts - robots.txt
+User-agent: *
+Allow: /
+
+# AI crawlers are welcome: all page content is static HTML.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://calgaryexperts.ca/sitemap.xml
