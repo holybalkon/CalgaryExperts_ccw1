@@ -15,4 +15,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://calgaryexperts.ca/sitemap.xml
+Sitemap: https://bestwindowreplacementcalgary.online/sitemap.xml
